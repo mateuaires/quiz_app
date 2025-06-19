@@ -1,0 +1,12 @@
+[
+  {
+    "pergunta": "Qual é a capital do Brasil?",
+    "respostas": ["São Paulo", "Brasília", "Rio de Janeiro", "Salvador"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem escreveu Dom Casmurro?",
+    "respostas": ["Machado de Assis", "José de Alencar", "Clarice Lispector", "Monteiro Lobato"],
+    "correta": 0
+  }
+]
