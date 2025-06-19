@@ -5,8 +5,48 @@
     "correta": 1
   },
   {
-    "pergunta": "Quem escreveu Dom Casmurro?",
-    "respostas": ["Machado de Assis", "José de Alencar", "Clarice Lispector", "Monteiro Lobato"],
+    "pergunta": "Qual linguagem usamos com Flutter?",
+    "respostas": ["Java", "Dart", "C++", "Python"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quanto é 2 + 2?",
+    "respostas": ["3", "4", "5", "6"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem descobriu o Brasil?",
+    "respostas": ["Pedro Álvares Cabral", "Dom Pedro", "Tiradentes", "Getúlio Vargas"],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+    "respostas": ["Terra", "Marte", "Vênus", "Júpiter"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem pintou a Mona Lisa?",
+    "respostas": ["Van Gogh", "Leonardo da Vinci", "Michelangelo", "Monet"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o maior oceano do mundo?",
+    "respostas": ["Atlântico", "Índico", "Ártico", "Pacífico"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o símbolo químico da água?",
+    "respostas": ["O2", "H2O", "CO2", "NaCl"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos dias há em um ano bissexto?",
+    "respostas": ["365", "366", "360", "364"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual a cor da clorofila?",
+    "respostas": ["Verde", "Azul", "Amarelo", "Roxo"],
     "correta": 0
   }
 ]

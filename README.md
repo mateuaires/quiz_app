@@ -11,7 +11,3 @@ Aplicativo de Quiz desenvolvido em Flutter para a disciplina de Desenvolvimento 
 1. Clone o repositório
 2. Rode `flutter pub get`
 3. Execute `flutter run`
-
----
-
-Desenvolvido por Mateus Nascimento Aires
