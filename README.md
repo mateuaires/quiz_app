@@ -1,6 +1,6 @@
 # Quiz App
 
-Aplicativo de Quiz desenvolvido em Flutter para a disciplina de Desenvolvimento para Dispositivos Móveis.
+Aplicativo de Quiz em desenvolvimento para a disciplina de Desenvolvimento para Dispositivos Móveis no IFB.
 
 ## Funcionalidades
 - Perguntas com múltiplas escolhas
@@ -11,7 +11,3 @@ Aplicativo de Quiz desenvolvido em Flutter para a disciplina de Desenvolvimento 
 1. Clone o repositório
 2. Rode `flutter pub get`
 3. Execute `flutter run`
-
----
-
-Desenvolvido por Mateus Nascimento Aires
