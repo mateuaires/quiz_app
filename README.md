@@ -1,8 +1,9 @@
-# Quiz App
+# Quiz 10
 
-Aplicativo de Quiz desenvolvido em Flutter para a disciplina de Desenvolvimento para Dispositivos Móveis.
+Aplicativo de Quiz em desenvolvimento para a disciplina de Desenvolvimento para Dispositivos Móveis no IFB.
 
 ## Funcionalidades
-- Perguntas com múltiplas escolhas
-- Pontuação ao final
+- 10 Perguntas com múltiplas escolhas
+- 10 Pontos ao final
+- 10 Segundos para responder
 - Leitura de dados via JSON local
